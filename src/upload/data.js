@@ -65,6 +65,17 @@ const data = [
       "https://twitter.com/msamik7",
     ],
   },
+  {
+    name: "Siddhant Pradhan",
+    role: "Working Professional at TCS",
+    image: "https://avatars.githubusercontent.com/u/48193075?v=4",
+    skills: ['HTML', 'CSS', 'Python', 'Cloud Computing', 'Digital Marketing', 'Data Science & Business Analytics'],
+    link: [
+      "https://github.com/siddhant2202",
+      "https://www.linkedin.com/in/siddhant-pradhan-613a141a5",
+      "https://twitter.com/Siddhan24486358",
+    ],
+  }
 ];
 
 export default data;
